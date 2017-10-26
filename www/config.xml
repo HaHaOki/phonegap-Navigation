@@ -6,7 +6,7 @@
         id        = "mob.app.dev.nav"
         version   = "1.0.0">
 
-    <name>phonegap navigation</name>
+    <name>Phonegap Navigation</name>
 
     <description>
         A sample application that counts the occurances of lifecycle events.
